@@ -21,3 +21,4 @@ Other options for NLU depending on the needs:
 - LLM
 ...
 
+Disclaimer: The accuracy will appear very low due to corpus size.
